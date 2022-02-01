@@ -50,6 +50,9 @@ from investment you can calculate require valuation for return and revenues etc
 
 ![image](https://user-images.githubusercontent.com/62838185/152062811-94e69523-c1b3-4870-9cf1-59f46c567fa5.png)
 
+![image](https://user-images.githubusercontent.com/62838185/152063120-d23badcb-585f-4829-bbd3-dc9bec6bc82f.png)
+
+
 - business model is an income statement in % terms
 	- unit volue
 	- geographically
