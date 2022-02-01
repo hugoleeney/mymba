@@ -2,6 +2,8 @@
 
 # Session 3, Part 2: Financial Projections
 
+* course materials available: https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/index.htm
+* video lecture available: https://www.youtube.com/watch?v=3vKlYA7vXOk
 
 # Speaker: Charlie Tillet
 
