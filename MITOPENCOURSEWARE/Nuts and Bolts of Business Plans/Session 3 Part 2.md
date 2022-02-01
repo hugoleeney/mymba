@@ -128,9 +128,19 @@ Proxy for cash flow is cumulative operating losses and any capital expenses.
 
 Pay yourself the same that your peers might earn (within reason).
 
-Profit and loss spreadsheet.
+# Profit and loss spreadsheet
 
+He flies through this.
 
+# Back to slides
+
+![image](https://user-images.githubusercontent.com/62838185/152061754-2d03ac6e-cdba-4bcc-83a2-9ac23c12d004.png)
+
+![image](https://user-images.githubusercontent.com/62838185/152061796-d49e438a-0cd4-4c48-b307-4050bc80bccd.png)
+
+![image](https://user-images.githubusercontent.com/62838185/152061865-f89af941-2f4d-4458-b89d-4dd3763e36f2.png)
+
+![image](https://user-images.githubusercontent.com/62838185/152061983-06a8ad80-2345-44fd-a5df-1e76660a8010.png)
 
 
 
