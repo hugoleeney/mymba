@@ -8,10 +8,10 @@
 # Speaker: Charlie Tillet
 
 
-Consulting CFOConsulting CFO
-        50-50-50 Consulting provides interim project-based CFO services to companies seeking debt/equity funding, exploring M&A opportunities, or looking for strategic financial advice.
+### Consulting CFO
+50-50-50 Consulting provides interim project-based CFO services to companies seeking debt/equity funding, exploring M&A opportunities, or looking for strategic financial advice.
 
-Profesional Advisory Network
+### Profesional Advisory Network
 Martin Trust Center for MIT Entrepreneurship
 
 
@@ -46,7 +46,9 @@ VCs want
 	- post-money valueation = pre-money + $invested
 	- % obtained by VC = money invested/(premoney valuation + money invested)
 
-- from investment you can calculate require valuation for return and revenues etc
+from investment you can calculate require valuation for return and revenues etc
+
+![image](https://user-images.githubusercontent.com/62838185/152062811-94e69523-c1b3-4870-9cf1-59f46c567fa5.png)
 
 - business model is an income statement in % terms
 	- unit volue
