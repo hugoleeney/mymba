@@ -4,6 +4,8 @@ Video available: https://www.youtube.com/watch?v=ZcPNcoTbkIU
 
 Presenter: Joe Hadzima
 
+![image](https://user-images.githubusercontent.com/62838185/152430638-c600bde9-3916-4f06-b5a4-11c3ff72d805.png)
+
 Shared vision of where we are, where we are going and how to get there.
 
 Its a living document.
