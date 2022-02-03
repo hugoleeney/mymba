@@ -1,9 +1,18 @@
-# Panel
+# Financing Sources Panel
 
-## Axel Bichara
+Video available: https://www.youtube.com/watch?v=9upRT5T7drI
+
+# Instructors
+
+### Axel Bichara
 
 ![image](https://user-images.githubusercontent.com/62838185/152224043-afc7baa8-9bf9-4558-b2d4-1bbca5fcf4a7.png)
 
+mechanical engineer
+mechanical design automation company
+Atlas venture capital
+bolt - accelerator for hardware companies
+OnShape - cloud based CAD software
 
 
 ## Julianne Zimmerman
